@@ -1,0 +1,23 @@
+{
+  "name": "xuelibook",
+  "version": "1.0.0",
+  "description": "热门动漫简介",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drunkcao/xuelibook.git"
+  },
+  "keywords": [],
+  "author": "drunkcao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drunkcao/xuelibook/issues"
+  },
+  "homepage": "https://github.com/drunkcao/xuelibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
